@@ -1,0 +1,13 @@
+*** Rendering ***
+MS average (10 frames): 6.6466
+MS last frame: 7.01158
+
+*** Particle Volume ***
+Current timestep: 0
+
+*** GPU Memory ***
+Used surface memory: 2 MiB
+Requested bricks: 0
+Jobs left: 0
+Used attribute memory: 0 MiB
+

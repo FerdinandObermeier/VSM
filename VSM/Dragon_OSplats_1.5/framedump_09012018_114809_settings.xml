@@ -1,0 +1,91 @@
+<force1-config>
+    <app-settings>
+        <media>
+            <framedelay typeid="2" value="30" />
+        </media>
+        <rendering>
+            <backgroundcolor typeid="875567318" value="[0.000000, 0.000000, 0.000000]" />
+            <cubemap typeid="30" value="false" />
+            <envcolor typeid="875567318" value="[0.200000, 0.200000, 0.800000]" />
+            <groundtexture typeid="100" value="Media/textures/checkerboard.png" />
+            <rendergroundplane typeid="30" value="true" />
+            <rendermeshes typeid="30" value="true" />
+            <showstatistics typeid="30" value="true" />
+            <staticscene typeid="30" value="false" />
+        </rendering>
+        <camera>
+            <eye typeid="875567318" value="[-1.302236, -0.750160, -0.303085]" />
+            <lookat typeid="875567318" value="[-0.474746, -0.942375, 0.224471]" />
+            <movescaler typeid="20" value="0.978733" />
+            <rotationscaler typeid="20" value="0.005000" />
+            <scaledmovement typeid="30" value="false" />
+        </camera>
+        <smoothing>
+            <alpha typeid="20" value="1.000000" />
+            <colorLambda typeid="2" value="1" />
+            <colorPasses typeid="2" value="0" />
+            <constantLambda typeid="30" value="false" />
+            <depththreshold typeid="20" value="0.010000" />
+            <filterSize typeid="2" value="7" />
+            <lambdaColor0 typeid="20" value="0.010000" />
+            <lambdaGeometry0 typeid="20" value="0.010000" />
+            <normalPasses typeid="2" value="0" />
+            <normalsLambda typeid="2" value="0" />
+            <passes typeid="2" value="0" />
+            <smoothingradius typeid="2" value="5" />
+            <smoothingtype typeid="2" value="0" />
+        </smoothing>
+        <raycaster>
+            <constantreupload typeid="30" value="false" />
+            <enablejitter typeid="30" value="false" />
+            <groupsize_x typeid="2" value="8" />
+            <groupsize_y typeid="2" value="8" />
+            <radius typeid="20" value="1.500000" />
+            <rendertocompleteimage typeid="30" value="true" />
+            <timesteppaging typeid="30" value="false" />
+            <update typeid="30" value="true" />
+        </raycaster>
+        <status />
+        <material>
+            <diffuse typeid="20" value="1.000000" />
+            <matcolor typeid="875567318" value="[0.039216, 0.098039, 0.298039]" />
+            <specular typeid="20" value="1.000000" />
+            <specularpower typeid="20" value="100.000000" />
+        </material>
+        <rawfile>
+            <asyncloading typeid="30" value="true" />
+            <autodeskcoords typeid="30" value="false" />
+            <headersize typeid="2" value="0" />
+            <particletype typeid="2" value="2" />
+        </rawfile>
+        <light>
+            <ambient typeid="20" value="0.050000" />
+            <cuttoff typeid="20" value="5.000000" />
+            <lightcolor typeid="875567318" value="[1.000000, 1.000000, 1.000000]" />
+            <pointlight typeid="30" value="false" />
+            <position typeid="875567318" value="[1.764613, -0.933797, 0.135056]" />
+        </light>
+    </app-settings>
+    <engine-settings>
+        <renderingdevice>
+            <gammecorrectmode typeid="30" value="true" />
+            <msaaquality typeid="2" value="0" />
+            <resolution typeid="1584490197" value="[1280, 720]" />
+            <samplecount typeid="2" value="1" />
+            <statsintitle typeid="30" value="true" />
+            <vsync typeid="30" value="false" />
+            <windowed typeid="30" value="true" />
+            <windowtitle typeid="100" value="Binary" />
+        </renderingdevice>
+    </engine-settings>
+    <custom />
+</force1-config>
+<framedump-data>
+    <statistics file="framedump_09012018_114809_stats.txt" />
+    <screenshot name="Depth" file="framedump_09012018_114809_Depth.raw" />
+    <screenshot name="backbuffer" file="framedump_09012018_114809_backbuffer.png" />
+    <screenshot name="Environment" file="framedump_09012018_114809_Environment.png" />
+    <screenshot name="Colors" file="framedump_09012018_114809_Colors.raw" />
+    <screenshot name="Occlusion" file="framedump_09012018_114809_Occlusion.raw" />
+    <screenshot name="Normals" file="framedump_09012018_114809_Normals.raw" />
+</framedump-data>
