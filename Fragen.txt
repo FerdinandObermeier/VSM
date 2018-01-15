@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt
+ReadIn speichert mir die Tiefenwerte.
+makeSquareDepth soll nun das quadrat der Tiefenwerte berechnen und diese speichern. Brauche ich dann größere Zellen?
+halfutils... einfach bytesize ändern?
